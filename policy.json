@@ -1,6 +1,6 @@
 {
-  "revision": 1,
-  "latestVersionCode": 40,
-  "minimumVersionCode": 39,
-  "downloadUrl": "https://github.com/awaquar005-cmd/traxos-releases/releases/download/v0.40.0/TRAXOS-0.40.0.apk"
+  "revision": 2,
+  "latestVersionCode": 41,
+  "minimumVersionCode": 40,
+  "downloadUrl": "https://raw.githubusercontent.com/awaquar005-cmd/traxos-releases/main/TRAXOS-0.41.0.apk"
 }
